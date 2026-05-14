@@ -31,6 +31,6 @@ The math is simple: Salary doesn't grow in a straight line. As professionals gai
 * `job_salary_pred(2_ER).ipynb`: Experiments with Ridge/Lasso/ElasticNet.
 * `job-salary-pred.ipynb`: Initial baseline and Exploratory Data Analysis.
 
----
+----
 
 > **Note :** Achieving 98% accuracy is a milestone, but the real win is the consistency. By backing my choice with Cross-Validation (CV) and testing on unseen data, I've ensured this model is robust enough for real-world application.
